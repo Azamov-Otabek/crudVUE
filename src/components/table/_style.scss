@@ -1,0 +1,12 @@
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .activeStatus {
+    color: lightgreen;
+  }
+  .noActiveStatus {
+    color: red;
+  }
